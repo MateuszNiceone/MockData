@@ -1,11 +1,32 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "payments": {
+    "result": {
+      "data": [
+        {
+          "id": 0,
+          "date": "14 Sep, 2023",
+          "name": "Car wash",
+          "payment": "14 Sep, 2023",
+          "description": "14 Sep, 2023",
+          "price": 55
+        },
+        {
+          "id": 1,
+          "date": "14 Sep, 2023",
+          "name": "Charging",
+          "payment": "14 Sep, 2023",
+          "description": "14 Sep, 2023",
+          "price": 60
+        },
+        {
+          "id": 2,
+          "date": "14 Sep, 2023",
+          "name": "Additional days",
+          "payment": "14 Sep, 2023",
+          "description": "14 Sep, 2023",
+          "price": 55.50
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
