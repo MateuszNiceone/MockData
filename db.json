@@ -6,24 +6,24 @@
           "id": 0,
           "date": "14 Sep, 2023",
           "name": "Car wash",
-          "payment": "14 Sep, 2023",
-          "description": "14 Sep, 2023",
+          "payment": "Credit Card",
+          "description": "Lorem ipsum dolor sit amet",
           "price": 55
         },
         {
           "id": 1,
           "date": "14 Sep, 2023",
           "name": "Charging",
-          "payment": "14 Sep, 2023",
-          "description": "14 Sep, 2023",
+          "payment": "Credit Card",
+          "description": "Lorem ipsum dolor sit amet",
           "price": 60
         },
         {
           "id": 2,
           "date": "14 Sep, 2023",
           "name": "Additional days",
-          "payment": "14 Sep, 2023",
-          "description": "14 Sep, 2023",
+          "payment": "Credit Card",
+          "description": "Lorem ipsum dolor sit amet",
           "price": 55.50
         }
       ]
