@@ -28,5 +28,35 @@
         }
       ]
     }
+  },
+  "tasks": {
+    "result": {
+      "data": [
+        {
+          "id": 0,
+          "valetParker": "James Browning",
+          "keysAssigned": "4",
+          "date": "Nov 14, 2023 04:34 PM",
+          "carsParked": "3",
+          "carsParkedTotal": "4"
+        },
+        {
+          "id": 1,
+          "valetParker": "Katherine Smithson Turner",
+          "keysAssigned": "7",
+          "date": "Nov 14, 2023 04:34 PM",
+          "carsParked": "2",
+          "carsParkedTotal": "7"
+        },
+        {
+          "id": 2,
+          "valetParker": "Ann Smithson",
+          "keysAssigned": "3",
+          "date": "Nov 14, 2023 04:34 PM",
+          "carsParked": "0",
+          "carsParkedTotal": "3"
+        }
+      ]
+    }
   }
 }
